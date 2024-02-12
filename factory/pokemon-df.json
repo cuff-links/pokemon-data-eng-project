@@ -1,0 +1,9 @@
+{
+	"name": "pokemon-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "612339d5-accb-4e03-85a7-5af0b7d74096",
+		"tenantId": "d7043b54-dc55-455b-bcec-81fffad3a7fd"
+	}
+}
